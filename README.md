@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityaarora17
 - 👀 I’m interested in c/c++ programming and cyber security
 - 🌱 I’m currently learning graphics and animation
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email - adityaarora179@gmail.com
 
 <!---
