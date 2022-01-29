@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityaarora17
+- 👋 Hi, I’m Aditya Arora
 - 👀 I’m interested in c/c++ programming and cyber security
 - 🌱 I’m currently learning graphics and animation
 - 📫 How to reach me: email - adityaarora179@gmail.com
